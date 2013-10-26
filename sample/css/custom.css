@@ -1,0 +1,36 @@
+.splash_sample{
+	background-color: #340000;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.hello{
+	font-size:100px;
+	font-family:helvetica,sans-sherif;
+	font-weight:600;
+	margin:auto;
+	color:white;
+	text-align:center;
+	text-decoration:none;
+	display:block;
+	vertical-align:middle;
+}
+
+.button_start{
+	position:absolute;
+    top:50%; 
+    left:50%;
+	height:54px;
+	width:96px;
+	color:white;
+	font-size:20px;
+	border:none;
+	background-color:#002300;
+	text-decoration:none;
+	font-family:helvetica,sans-sherif;
+	font-weight:600;
+}
+
+.button_start:hover{
+	background-color:#003400;
+}

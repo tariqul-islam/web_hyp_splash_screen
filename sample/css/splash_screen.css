@@ -1,0 +1,22 @@
+/*
+Website Splash
+Simple Splash Screen for Websites
+
+Tariqul Islam Ponir
+ponir(dot)bd(at)hotmail(dot)com
+*/
+
+html{
+	min-height:100%;
+	min-width:100%;
+	overflow:hidden;
+}
+
+#hyp_splash_screen{
+	position: fixed;
+	top:0px;
+	left:0px;
+	min-height:100%;
+	min-width:100%;
+	z-index:1000;
+}
